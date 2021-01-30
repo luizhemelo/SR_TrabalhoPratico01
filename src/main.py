@@ -8,7 +8,7 @@ OUTPUT_DIR = 'out.csv'
 
 lmbda = 0.2 # Regularization parameter
 k = 3 # tweak this parameter
-n_epochs = 40  # Number of epochs
+n_epochs = 45  # Number of epochs
 alpha=0.01  # Learning rate
 
 # Data import
